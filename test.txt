@@ -1,1 +1,12 @@
-lina va ha perder la cabeza
+comandos para git
+
+para repositorio propio.
+
+paso 1: crear repositorio desde pagina web.
+paso 2: iniciar la consola de git.
+pado 3: clonar repositorio --> git clone <URL>
+paso 4: ingresar al repositorio local --> cd <Nombre carpeta>.
+paso 5. hacer cambios en contenido de la carpeta, agregar imagenes, archivos nuevos, etc.
+paso 6: agregamos cambios al head --> git add .
+paso 7: agregamos el commit --> git commit -m "poner mensaje"
+paso 8: enviamos los cambio al repositorio remoto --> git push origin master
